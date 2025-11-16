@@ -1,7 +1,5 @@
-[
-  {
-    "username": "flayy",
-    "password": "1234",
-    "expired": "2099-12-31"
+{
+  "users": {
+    "flayy": { "password": "syafila" }
   }
-]
+}

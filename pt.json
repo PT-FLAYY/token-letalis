@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "username": "a",
+    "password": "bc",
+    "expired": "Never"
+  }
+]
